@@ -1,4 +1,5 @@
-# BANDITFB
+<h1 align="center">Hi 👋, I'm NANGG BADUTCODE</h1>
+<h3 align="center">A passionate frontend from Indonesia</h3>
 
 # NEW UPDATE KING
 
@@ -16,10 +17,7 @@ $ git pull
 
 $ python Rabbids.py
 
-<h1 align="center">Hi 👋, I'm NANGG BADUTCODE</h1>
-<h3 align="center">A passionate frontend from Indonesia</h3>
-
-<img align="right" alt="coding"width="400" src="[content://images.app.goo.gl/Meruhq1Nuon576Tm8)">
+<img align="right" alt="coding"width="400" src="[content://images.app.goo.gl/Meruhq1Nuon576Tm8">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nangg-badutcode&label=Profile%20views&color=0e75b6&style=flat" alt="nangg-badutcode" /> </p>
 
